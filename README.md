@@ -9,11 +9,12 @@ Creator is Mert IŞIK .
 - First way is set run configuration and run program 
 - Second way is open terminal of IDE and run this commands : 
  
-- cd src
-- javac *.java  ( if it return an error like " 'javac' is not recognized as an internal or 
+ 
+- 1) cd src
+- 2) javac *.java  ( if it return an error like " 'javac' is not recognized as an internal or 
 external command, operable program or batch file. " you should run : 
 set Path="C:\Program Files\Java\jdk1.8.0_271\bin"    or the version of your jdk )  
-- java Run
+- 3) java Run
 
 # How to play
 
